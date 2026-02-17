@@ -1,0 +1,2 @@
+Multiple agents can communicate messages to coordinate actions.
+This can help reach targets faster in collaborative scenarios.

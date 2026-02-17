@@ -1,0 +1,2 @@
+If the agent encounters an obstacle, it should try moving in another direction. 
+Obstacles cannot be passed directly.

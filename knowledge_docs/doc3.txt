@@ -1,0 +1,2 @@
+The agent can move UP, DOWN, LEFT, or RIGHT in the grid.
+Check boundaries before moving.

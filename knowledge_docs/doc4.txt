@@ -1,0 +1,2 @@
+If the agent is stuck, query the knowledge base for hints.
+Use multi-step reasoning to plan the next action.
