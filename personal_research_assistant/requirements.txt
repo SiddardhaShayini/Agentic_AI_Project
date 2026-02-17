@@ -1,7 +1,20 @@
+# --- Base Libraries ---
+langchain>=0.1.0
+langchain-community>=0.0.1
+langchain-text-splitters>=0.0.1
+langchain-ollama>=0.1.0
+
+# --- Vector Database & Embeddings ---
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
 llama-index>=0.10.0
 llama-index-embeddings-huggingface>=0.2.0
-langchain>=0.1.0
-chromadb>=0.4.0
+
+# --- Utilities & Data ---
 PyPDF2>=3.0.1
 tiktoken>=0.5.2
 python-dotenv>=1.0.0
+
+# --- Visualization (For your grid agent demo) ---
+matplotlib>=3.8.0
+numpy>=1.26.0
