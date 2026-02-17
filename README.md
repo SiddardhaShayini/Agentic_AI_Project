@@ -22,7 +22,7 @@ An **offline, multi-step agentic AI** Personal Research Assistant that uses **RA
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SiddardhaShayini/Agentic_AI_Project.git
 cd personal_research_assistant
 ```
 
