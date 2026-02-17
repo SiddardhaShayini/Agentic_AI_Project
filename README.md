@@ -23,6 +23,8 @@ An **offline, multi-step agentic AI** Personal Research Assistant that uses **RA
 
 ```bash
 git clone https://github.com/SiddardhaShayini/Agentic_AI_Project.git
+```
+```bash
 cd personal_research_assistant
 ```
 
@@ -32,20 +34,14 @@ cd personal_research_assistant
 pip install -r requirements.txt
 ```
 
-**Key packages used:**
-
-* `chromadb` – vector database
-* `sentence-transformers` – local embeddings
-* `langchain-ollama` – local LLM interface
-* `ollama` – Phi-3 model support
-
 3. Install Ollama and download model:
 
 ```bash
 ollama list          # Check installed models
+```
+```bash
 ollama pull phi-3    # Download Phi-3 locally
 ```
-
 > Optional: use `phi-1` or `phi-2` for faster CPU testing.
 
 ---
@@ -196,10 +192,5 @@ Explore renewable energy sources such as solar power systems, wind plants, susta
 
 ---
 
-This README documents the **full offline agentic AI workflow**, folder structure, usage instructions, and sample outputs for your Personal Research Assistant.
-
----
-
-If you want, I can also **create a `requirements.txt`** fully compatible with **offline CPU setup** for this project so you can install everything in one command.
-
-Do you want me to do that?
+## 👨‍💻 Developer
+**Siddardha Shayini**  
